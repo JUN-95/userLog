@@ -1,0 +1,6 @@
+2020.10.14 22:47:47 INFO  started: Metals version 0.9.4 in workspace 'D:\users\大三项目\第三次淘宝数据分析项目\KafkaDashboard' for client vscode.
+2020.10.14 22:47:48 INFO  time: initialize in 0.33s
+2020.10.14 22:47:49 WARN  no build tool detected in workspace 'D:\users\大三项目\第三次淘宝数据分析项目\KafkaDashboard'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.14 22:47:50 INFO  no build target: using presentation compiler with only scala-library
+2020.10.14 22:47:50 WARN  no build target for: D:\users\大三项目\第三次淘宝数据分析项目\KafkaDashboard\kafka\kafkatest\src\main\scala\KafkaTest.scala
+2020.10.14 23:09:05 INFO  shutting down Metals
